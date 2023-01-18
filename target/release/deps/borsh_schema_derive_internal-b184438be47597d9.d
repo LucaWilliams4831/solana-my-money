@@ -1,0 +1,10 @@
+/st/solana-my-money/learn_src/target/release/deps/borsh_schema_derive_internal-b184438be47597d9.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/helpers.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/enum_schema.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/struct_schema.rs
+
+/st/solana-my-money/learn_src/target/release/deps/libborsh_schema_derive_internal-b184438be47597d9.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/helpers.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/enum_schema.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/struct_schema.rs
+
+/st/solana-my-money/learn_src/target/release/deps/borsh_schema_derive_internal-b184438be47597d9.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/helpers.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/enum_schema.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/struct_schema.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/helpers.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/enum_schema.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/struct_schema.rs:
